@@ -25,6 +25,7 @@ dos. El programa deberá después mostrar el resultado de la suma*/
         System.out.println("Ingrese otro número");
         int num2 = leer.nextInt();
         int suma = num + num2;
+        int rest = 0;
         System.out.println("La suma es " +suma);
     }
     
